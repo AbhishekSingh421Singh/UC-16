@@ -1,4 +1,4 @@
-name: Creating infra
+name: Creating aws infra
 
 on:
   push:
